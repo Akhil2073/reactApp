@@ -12,7 +12,10 @@ Trying to create a new app using react
 
 - Authentication
 - user Profile
-- Recipes Names 
+- Dashboard
+- Recipes
+- User controll and feedback
+- Payment options
 - Recipe Ingredients
 - Recipe Preparation steps
 
